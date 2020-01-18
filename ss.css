@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(5, 5, 5, 0.418);
+    /* border-style: groove; */
+    text-align: left;
+    font-size: xx-large;
+    /* border-color: rgb(226, 16, 16); */
+}
+form{
+    background-color: rgb(100, 100, 91);
+    text-align: center;
+    font-size: xx-large;
+    border-style: solid;
+    border-color: gold;
+}
